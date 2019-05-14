@@ -1,11 +1,16 @@
 _repo: The-Earthman_59458
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59458-h/images/cover.jpg
 creator:
   author:
     agent_name: Cox, Irving E.
     gutenberg_agent_id: '31427'
     url: http://www.gutenberg.org/2009/agents/31427
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59458#The-Earthman
 gutenberg_issued: '2019-05-08'
 gutenberg_type: Text
 identifiers:
